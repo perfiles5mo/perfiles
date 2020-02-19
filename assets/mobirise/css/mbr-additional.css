@@ -5073,3 +5073,26 @@ section.lazy-placeholder:after {
 .cid-rQYNLcA8JG .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rQYPzi9JXP {
+  background: #ffffff;
+}
+.cid-rQYPzi9JXP .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rQYPzi9JXP .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rQYPzi9JXP figcaption {
+  position: relative;
+}
+.cid-rQYPzi9JXP figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rQYPzi9JXP .image-block {
+    width: 100% !important;
+  }
+}
