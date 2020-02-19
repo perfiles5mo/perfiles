@@ -2851,6 +2851,29 @@ section.lazy-placeholder:after {
 .cid-rQYfwhuFIl .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-rQYKajIdJr {
+  background: #ffffff;
+}
+.cid-rQYKajIdJr .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-rQYKajIdJr .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rQYKajIdJr figcaption {
+  position: relative;
+}
+.cid-rQYKajIdJr figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rQYKajIdJr .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rQYfwhuFIl .navbar {
   padding: .5rem 0;
   background: #333333;
